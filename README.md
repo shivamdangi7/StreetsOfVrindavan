@@ -1,2 +1,2 @@
 # StreetsOfVrindavan
-A nice interective website that translates the experience of living in vrindavan .
+A nice interective website that translates the joy of living in vrindavan .
